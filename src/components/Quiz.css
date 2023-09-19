@@ -1,0 +1,9 @@
+h2{
+    color: #78abd3;
+    font-weight: 700;
+    border-bottom: 4px solid #78abd3a5;
+    display: inline-block;
+}
+.container-fluid{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
